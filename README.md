@@ -1,10 +1,10 @@
 # Pandas Data Visualisations in Python (Jupyter Notebook)
 
-## 📋 Project Overview
+## Project Overview
 
 This project demonstrates how to visualise data using Python’s pandas library within a Jupyter Notebook. It includes multiple chart types such as bar charts, line graphs, and histograms to explore and present key data trends effectively. 
 
-## 🛠 Tools & Libraries
+## Tools & Libraries
 
 - Python
 
@@ -16,7 +16,7 @@ This project demonstrates how to visualise data using Python’s pandas library 
 
 - Seaborn (optional) for enhanced visualization aesthetics
 
-## 📊 Key Visualizations
+## Key Visualizations
 
 - Bar plots for comparing categorical values
 
@@ -26,7 +26,7 @@ This project demonstrates how to visualise data using Python’s pandas library 
 
 - Simple plotting methods using pandas.DataFrame.plot()
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 - How to generate quick plots using built-in pandas functionality
 
